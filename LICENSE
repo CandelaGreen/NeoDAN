@@ -435,6 +435,7 @@ OPENCANDELA EXCEPTION
 As an exception, to allow seamless sharing of code between copyleft and permissive projects, the following trusted people are allowed to use this code under the MIT license below:
 waqasm86
 This does not apply to any other person.
+Additionally, the code can be integrated into any other OpenCandela project, as long as the license is not public domain or equivalent.
 
 MIT LICENSE
 ===========
