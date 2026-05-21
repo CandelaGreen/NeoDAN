@@ -430,11 +430,14 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
-OPENCANDELA EXCEPTION
-=====================
-As an exception, to allow seamless sharing of code between copyleft and permissive projects, the following trusted people are allowed to use this code under the MIT license below:
-waqasm86
-This does not apply to any other person.
+OPENCANDELA EXCEPTION 2.0
+=========================
+As an exception, to allow seamless sharing of code between copyleft and permissive projects, this code can be used under the MIT license provided at least one of the following conditions are met:
+1. The user is listed on the OpenCandela website as a trusted member.
+2. The user has specific prior written permission.
+3. The user is a community organization.
+4. The user is not a commercial entity (this does not apply to PBCs, foundations, and former community organizations).
+This does not apply to any other user.
 Additionally, the code can be integrated into any other OpenCandela project, as long as the license is not public domain or equivalent.
 
 MIT LICENSE
